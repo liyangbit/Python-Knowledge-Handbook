@@ -24,9 +24,13 @@
 从 2016年底开始，再次坚持写作，并于2017年开通了微信公众号『Python数据之道』。
 期间陆陆续续，写了些许Python相关的内容，希望借此机会，将这些显得零散的内容整合起来，形成一本小册子，名曰《Python知识手册》，一共365页。手册的封面如下：
 
-![封面](images/1.png)
+<div align="center">
+    <img src="images/1.png" width="600"/>
+</div>
 
-![目录内容](images/4.png)
+<div align="center">
+    <img src="images/4.png" width="600"/>
+</div>
 
 虽然我写了一些关于 Python零基础入门的文章，但《Python知识手册》不是一本从 Python
 零基础开始的手册，针对手册的阅读，各位读者最好有一些 Python 的基本功底。
@@ -56,7 +60,7 @@
 
 公众号『Python数据之道』秉承“让数据更有价值”的理念，主要分享数据相关的内容，包括数据分析，挖掘，可视化，机器学习，深度学习等。公众号所有文章都可以免费阅读，欢迎关注。
 
-![](images/logo.jpg)
+<div align="center"><img src="images/logo.jpg" width="120"/></div>
 
 ## 知识星球
 
@@ -68,7 +72,9 @@
 * 作为圈友，我会透过数据，用 Python 分享我的一些观察、分析、思考，以及一些个人经验； 
 * 更重要的，是大家的主题分享和切磋讨论
 
-![](images/xingqiu-1.png)
+<div align="center">
+    <img src="images/xingqiu-1.png" width="400"/>
+</div>
 
 ## 感谢的话
 
