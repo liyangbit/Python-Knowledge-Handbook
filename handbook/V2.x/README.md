@@ -1,10 +1,12 @@
 ## Python知识手册
 
-### 获取地址一：Github
+### 获取地址
 
-https://github.com/liyangbit/Python-Knowledge-Handbook/tree/master/handbook/Version-2018
+链接:https://pan.baidu.com/s/114UO6Q5A1BGlfDt1dAyVSw  
 
-### 获取地址二：百度网盘
+密码:fdff
 
-链接：https://pan.baidu.com/s/1v5mhaTQwEDIXCC9REr0pmA 
-提取码：77zz 
+
+### PC 端备用地址
+
+https://72k.us/file/23159928-421659457
