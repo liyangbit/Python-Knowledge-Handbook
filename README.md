@@ -2,7 +2,7 @@
 
 《Python知识手册》 由 『Python数据之道』出品
 
-作者：Lemonbit
+作者：Lemon
 
 个人网站： [http://liyangbit.com](http://liyangbit.com)
 
@@ -10,7 +10,7 @@
 
 ## 1.1 前言
 
-各位读者好，我是 Lemonbit 。
+各位读者好，我是 Lemon 。
 
 >“种一棵树，最好的时间是十年前，其次是现在。”
 
@@ -20,18 +20,18 @@
 
 2019 年 2 月，「Python数据之道」发布了《Python知识手册》的第一个版本（v2018版）。
 
-2020 年 2 月 ，《Python知识手册》更新到 V2.0.1 版，手册的页数从 365 页增加到 470 多页，从内容方面来看，增加了部分 Python 基础知识、Plotly 相关的内容以及修订了第一版的部分内容。
+2020 年 5 月 ，《Python知识手册》更新到 V2.2 版，手册的页数从 365 页增加到 440 多页，从内容方面来看，增加了部分 Python 基础知识、Plotly 相关的内容以及修订了第一版的部分内容。重新梳理了Python学习资料相关章节，分为精选文章、Python网站、书籍三个部分
 
 从 V2.0 版开始，后续版本的更新时间间隔会缩短，在 2020 年，公众号「Python数据之道」初步计划会花更多时间和精力来更新这个手册的内容，希望能给大家带来些有价值的内容。
 
-手册 V2.0.1 的封面如下：
+手册 V2.2 的封面如下：
 
 <div align="center">
-    <img src="images/v2.0.1.jpg" width="600"/>
+    <img src="images/v2.2.jpg" width="600"/>
 </div>
 
 虽然我写了一些关于 Python 零基础入门的文章，但《Python知识手册》 并没有比较完整的覆盖 Python 的基础知识。因此，针对手册的阅读，各位读者最好有一些 Python 的基本功底。
-当前版本中（v2.0.1），手册主要包含以下几方面相关的内容：
+当前版本中（v2.2），手册主要包含以下几方面相关的内容：
 
 - Python基础知识
 - Jupyter Notebook
@@ -60,6 +60,6 @@
 
 ## 1.4 如何获取《Python知识手册》
 
-在公众号「Python数据之道」后台回复数字 “ 600 ”，即可免费获取最新版的《Python知识手册》。
+手册获取地址：[《Python知识手册》](https://github.com/liyangbit/Python-Knowledge-Handbook/tree/master/handbook/V2.x)
 
-<div align="center"><img src="images/logo.jpg" width="120"/></div>
+<div align="center"><img src="images/QR-PyDataLab-202002.jpg" width="120"/></div>
