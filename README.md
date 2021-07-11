@@ -2,7 +2,7 @@
 
 《Python知识手册》 由 微信公众号 **「Python数据之道」** 出品
 
-作者：Lemon
+作者：阳哥
 
 个人网站： [http://liyangbit.com](http://liyangbit.com)
 
@@ -10,7 +10,7 @@
 
 ## 导读
 
-大家好，我是 Lemon 。
+大家好，我是 阳哥 。
 
 《Python知识手册》由「Python数据之道」出品，最新版会在公众号上进行发布，大家可以在公众号「Python数据之道」后台回复 **600** 获取最新版。
 
@@ -21,17 +21,21 @@
 
 2019 年 2 月，「Python数据之道」发布了《Python知识手册》的第一个版本（v2018版）。
 
-2021年1月，《Python知识手册》V3.0 版主要更新了 2020年我写的一些内容，涉及 主要涉及 VS Code、Pandas、Plotly 以及学习资料等内容。
+2021 年 7 月，《Python知识手册》更新到 V3.1 版。
 
 手册的封面如下：
 
 <div align="center">
-    <img src="images/v3.0.png" width="600"/>
+    <img src="images/v3.1.png" width="600"/>
 </div>
 
 当前版本中，手册主要包含以下几方面相关的内容：
 
-- Python 基础知识
+<div align="center">
+    <img src="images/content.png" width="600"/>
+</div>
+
+<!-- - Python 基础知识
 - Jupyter Notebook
 - Numpy
 - Pandas
@@ -40,7 +44,7 @@
 - Bokeh
 - Plotly
 - 若干个项目实战案例
-- Python 学习资料
+- Python 学习资料 -->
 
 如没有特殊的说明，手册中代码的运行环境如下：
 
@@ -62,16 +66,20 @@
 
 | 版本号  | 日期  | 主要内容描述  |
 |---|---|---|
+|v3.1| 2021-07-12  | 更新 Matplotlib、Pandas等相关内容|
 |v3.0| 2021-01-01  | 更新 VS Code、Pandas、Plotly 以及学习资料等内容|
 |v2.2| 2020-05-11  | 更新Plotly相关内容和Python学习资料的章节|
 |v2.1| 2020-02-14  | 添加“导读” 和 “Python网站”  章节，移除部分项目|
 |v2.0.1| 2020-02-02  | 修复2.0 版没有书签的 bug  |
 |v2.0| 2020-02-02  | 添加 Python 基础知识；添加 Plotly 内容  |
 |v2018| 2019-02-25  | 第一版，初始版本  |
+
+
+
 <!-- 
 ## 1.1 前言
 
-各位读者好，我是 Lemon 。
+各位读者好，我是 阳哥 。
 
 >“种一棵树，最好的时间是十年前，其次是现在。”
 
