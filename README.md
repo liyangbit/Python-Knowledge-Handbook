@@ -1,7 +1,7 @@
 - [Python知识手册](#python知识手册)
   - [导读](#导读)
   - [手册内容](#手册内容)
-  - [V3.2版主要更新内容](#v32版主要更新内容)
+  - [主要更新内容](#主要更新内容)
   - [如何阅读和使用《手册》](#如何阅读和使用手册)
   - [手册版本历史信息](#手册版本历史信息)
   - [如何获取《Python知识手册》](#如何获取python知识手册)
@@ -29,11 +29,11 @@
 
 2019 年 2 月，「Python数据之道」发布了《Python知识手册》的第一个版本（v2018版）。
 
-2021 年 8 月，《Python知识手册》更新到 V3.2 版。
+2021 年 9 月，《Python知识手册》更新到 V3.3 版。
 
 手册的封面如下：
 
-![封面-Python知识手册](https://tva1.sinaimg.cn/large/008i3skNgy1gt1b23tbhej30gj0nedib.jpg)
+![封面-Python知识手册](https://tva1.sinaimg.cn/large/008i3skNgy1gui8arir1oj60gj0neacj02.jpg)
 
 
 <!-- 手册的封面如下：
@@ -44,7 +44,7 @@
 
 当前版本中，手册主要包含以下几方面相关的内容：
 
-![主要内容](https://tva1.sinaimg.cn/large/008i3skNgy1gt1bgsdb6vj30u01juwli.jpg)
+![主要内容](https://tva1.sinaimg.cn/large/008i3skNgy1gui8ernq7lj60qr16742f02.jpg)
 
 <!-- <div align="center">
     <img src="images/content.png" width="600"/>
@@ -68,23 +68,19 @@
 - Anaconda / Jupyter Notebook / VS Code
 
 
-## V3.2版主要更新内容
+## 主要更新内容
 
-1. 添加 Pandas 数据筛选 Query 函数介绍的内容；
+1. 更新Python数据结构-字典（Dict）内容介绍；
 
+2. 更新与添加 Pandas 中数据排序的内容，如下：
 
-2. 添加 Pandas 表格样式（style）设置介绍的内容；
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gui8gjgudtj616y0ju0ul02.jpg)
 
-![样式设置](https://tva1.sinaimg.cn/large/008i3skNgy1gs77o6zbnaj30u012wqdw.jpg)
+3. 新设置财经实践板块，主要目的是给大家分享 Python 在财经领域的应用
 
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gui8glmufdj61600o2dif02.jpg)
 
-3. 添加 Plotly Express 可视化介绍的内容，包括20组常用的可视化图表，比如线形图、散点图、柱状图、面积图、树形图、旭日图、甘特图等；
-
-![Plotly Express](https://tva1.sinaimg.cn/large/008i3skNgy1gsma6qvupgj30ey0otaca.jpg)
-
-4. 添加使用 Plotly 绘制股票交易图表的内容；
-
-5. 调整了部分章节的顺序，包括 Plotly 板块 和 Bokeh 内容的顺序等；
+本次添加的内容包括用Python制作投资计划，获取基金收益信息，获取基金持仓变化信息等。
 
 <!-- ## 与优秀者同行
 
@@ -100,6 +96,7 @@
 
 | 版本号  | 日期  | 主要内容描述  |
 |---|---|---|
+|v3.3| 2021-09-16  | 更新 Pandas相关内容，添加财经实践板块|
 |v3.2| 2021-08-02  | 更新 Pandas、Plotly等相关内容|
 |v3.1| 2021-07-12  | 更新 Matplotlib、Pandas等相关内容|
 |v3.0| 2021-01-01  | 更新 VS Code、Pandas、Plotly 以及学习资料等内容|
