@@ -22,7 +22,10 @@
 
 《Python知识手册》由「Python数据之道」出品，最新版会在公众号上进行发布，大家可以在公众号「Python数据之道」后台回复 **600** 获取最新版。
 
-<div align="center"><img src="images/QR-PyDataLab-202002.jpg" width="120"/></div>
+<!-- <div align="center"><img src="images/QR-PyDataLab-202002.jpg" width="120"/></div> -->
+
+<div align="center"><img src="https://tva1.sinaimg.cn/large/008i3skNgy1gycgzexskhj3076076t8y.jpg" width="120"/></div>
+
 
 虽然我写了一些关于 Python 零基础入门的文章，但《Python知识手册》 并没有比较完整的
 覆盖 Python 的基础知识。因此，针对手册的阅读，各位读者最好有一些 Python 的基本功底。
@@ -112,4 +115,6 @@
 
 手册获取地址：[《Python知识手册》](https://github.com/liyangbit/Python-Knowledge-Handbook/tree/master/handbook)
 
-<div align="center"><img src="images/QR-PyDataLab-202002.jpg" width="120"/></div>
+<!-- <div align="center"><img src="images/QR-PyDataLab-202002.jpg" width="120"/></div> -->
+
+<div align="center"><img src="https://tva1.sinaimg.cn/large/008i3skNgy1gycgzexskhj3076076t8y.jpg" width="120"/></div>
