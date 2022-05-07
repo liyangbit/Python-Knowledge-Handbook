@@ -34,11 +34,13 @@
 
 2019 年 2 月，「Python数据之道」发布了《Python知识手册》的第一个版本（v2018版）。
 
-2022 年 2 月，《Python知识手册》更新到 V4.0 版。
+2022 年 5 月，《Python知识手册》更新到 V4.1 版。
 
 手册封面如下：
 
-![封面-Python知识手册](https://tva1.sinaimg.cn/large/e6c9d24egy1gznalxsrxtj20gj0neac0.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1zu5nsvyij20gj0neac0.jpg)
+
+<!-- ![封面-Python知识手册](https://tva1.sinaimg.cn/large/e6c9d24egy1gznalxsrxtj20gj0neac0.jpg) -->
 
 <!-- ![封面-Python知识手册](https://tva1.sinaimg.cn/large/008i3skNgy1gui8arir1oj60gj0neacj02.jpg) -->
 
@@ -46,7 +48,9 @@
 当前版本中，手册主要包含以下几方面相关的内容：
 
 
-![主要内容](https://tva1.sinaimg.cn/large/e6c9d24egy1gznag0f0zjj20u010xae1.jpg)
+<!-- ![主要内容](https://tva1.sinaimg.cn/large/e6c9d24egy1gznag0f0zjj20u010xae1.jpg) -->
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1zu5knnmyj20u01ektec.jpg)
 
 <!-- <div align="center">
     <img src="images/content.png" width="600"/>
@@ -72,11 +76,11 @@
 
 ## 主要更新内容
 
-1. 添加关于Python视频制作工具 `Manim` 介绍的内容，由于涉及不少 gif图以及视频，在pdf中不能显示，此部分内容以链接形式添加；
+1. 添加《图解Pandas》专题相关内容；
+2. 添加 Plotly 关于轴标题位置控制的内容；
+3. 更新「用Python快速追踪基金的收益情况」中的内容，部分内容失效，进行更新；
 
-1. 「用Python快速获取基金的持仓变化情况」中的内容，部分数据接口失效，进行更新；
-
-1. 更新部分书写错误；
+4. 更新部分书写错误；
 
 <!-- ## 与优秀者同行
 
@@ -92,6 +96,7 @@
 
 | 版本号  | 日期  | 主要内容描述  |
 |---|---|---|
+|v4.1| 2022-05-06  | 添加《图解Pandas》以及Plotly 相关内容，更新财经实践的部分内容|
 |v4.0| 2022-02-24  | 添加Manim相关内容，更新部分财经实践内容以及一些书写错误|
 |v3.3| 2021-09-16  | 更新 Pandas相关内容，添加财经实践板块|
 |v3.2| 2021-08-02  | 更新 Pandas、Plotly等相关内容|
